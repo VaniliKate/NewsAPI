@@ -4,7 +4,7 @@ class Config:
         General configuration parent class
     '''
 
-    pass
+    API_KEY = "ac4fe71ff54045d781683a87a8bbad28"
 
 class ProdConfig(Config):
 
