@@ -49,8 +49,8 @@ main.py
 - There are no known bugs currently but pull requests are allowed incase you spot a bug
 
 ## Contact Information
-If you have any question or contributions, please find me on [LinkedIn](https://www.linkedin.com/in/steve-njuguna-aa426096/)
+If you have any question or contributions, please femail me at 'katevanili98@gmail.com'
 
-© 2021 Steve Njuguna
+© 2022 Vanili Kate
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
