@@ -1,7 +1,6 @@
-# Flask News App
+# News Application
 A web application is built using Python framework (Flask) and NEWS API. The app displays information about news articles from popular sources, top headlines around the world, provides new categories and the various sources available.
 
-![](https://github.com/steve-njuguna-k/Flask-News-App/blob/master/app/static/assets/img/screenshot.PNG)
 
 ## Requirements
 The user can perform the following functions:
@@ -23,19 +22,19 @@ The application requires the following installations to operate:
 ## Project Setup Instructions
 1) Git clone the repository 
 ```
-https://github.com/steve-njuguna-k/Flask-News-App.git
+https://github.com/VaniliKate/NewsAPI.git
 ```
 2. cd into Flask-News-App
 ```
-cd Flask-News-App
+cd into the root file
 ```
 3. create a virtual env
 ```
-py -m venv env
+python3 -m venv venv
 ```
 4. activate env
 ```
-env\scripts\activate
+. venv/bin/activate
 ```
 5. Open CMD & Install Dependancies
 ```
