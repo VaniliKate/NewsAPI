@@ -3,9 +3,10 @@ from newsapi import NewsApiClient
 import re
 from collections import Counter
 
+
 from newsapi.newsapi_exception import NewsAPIException
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='Templates')
 
 newsapi = NewsApiClient(api_key='68b80b58e40541468f4cf582b26463dd')
 
