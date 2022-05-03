@@ -1,4 +1,4 @@
-#!/home/vanili/Documents/news-api/venv/bin/python3
+#!/home/infinite/Pictures/NewsApp-Flask-master/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

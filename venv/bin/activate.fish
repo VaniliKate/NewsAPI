@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/vanili/Documents/news-api/venv"
+set -gx VIRTUAL_ENV "/home/infinite/Pictures/NewsApp-Flask-master/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
